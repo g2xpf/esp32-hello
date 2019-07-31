@@ -6,7 +6,7 @@ source setenv.sh
 
 COMPS=$IDF_PATH/components
 SYSROOT=$HOME/xtensa-esp32-elf/xtensa-esp32-elf/sysroot
-TARGET=xtensa-none-elf
+TARGET=xtensa-esp32-none-elf
 
 BINDGEN=bindgen
 LIBCLANG_PATH=$HOME/git/rust/xtensa/llvm_build/lib
