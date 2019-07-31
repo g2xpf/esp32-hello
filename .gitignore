@@ -1,3 +1,6 @@
 /target
 /build
 **/*.rs.bk
+
+sdkconfig.old
+esp-idf
